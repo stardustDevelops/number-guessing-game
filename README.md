@@ -15,5 +15,5 @@ python number_guessing_game.py
 ## Requirements
 - Python 3.x
 
-### About
+## About
 This is one of my early Python projects.
